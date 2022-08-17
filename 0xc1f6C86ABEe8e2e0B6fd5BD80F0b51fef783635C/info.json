@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin."
+  },
+  "id": "b1052c20-6310-4a0f-a1a1-b8098ae2ffc6",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+    "website": "https://wbtc.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/meter/assets/0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C/logo.png"
+  },
+  "name": "WBTC from Ethereum on Meter",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "WBTC.eth",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

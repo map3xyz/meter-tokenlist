@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a611a91e-4a85-4c40-8cf3-4202b901d418",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/meter/assets/0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986/logo.png"
+  },
+  "name": "Factory Builders Token",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "FTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

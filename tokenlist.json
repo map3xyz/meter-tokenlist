@@ -1,0 +1,118 @@
+{
+  "name": "@Map3/meter-tokenlist",
+  "timestamp": "2022-08-17T10:03:40.444Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
+      "name": "AmpleForth",
+      "decimals": 9,
+      "symbol": "AMPL",
+      "tags": []
+    },
+    {
+      "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+      "name": "Meter Governance",
+      "decimals": 18,
+      "symbol": "MTRG",
+      "tags": []
+    },
+    {
+      "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
+      "name": "BUSD from BSC on Meter",
+      "decimals": 18,
+      "symbol": "BUSD.bsc",
+      "tags": []
+    },
+    {
+      "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
+      "name": "USDT from Ethereum on Meter",
+      "decimals": 6,
+      "symbol": "USDT.eth",
+      "tags": []
+    },
+    {
+      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
+      "name": "Factory Builders Token",
+      "decimals": 18,
+      "symbol": "FTB",
+      "tags": []
+    },
+    {
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "name": "Volt",
+      "decimals": 18,
+      "symbol": "VOLT",
+      "tags": []
+    },
+    {
+      "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
+      "name": "ETH from Ethereum on Meter",
+      "decimals": 18,
+      "symbol": "ETH",
+      "tags": []
+    },
+    {
+      "address": "0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
+      "name": "USDC from Ethereum on Meter",
+      "decimals": 6,
+      "symbol": "USDC.eth",
+      "tags": []
+    },
+    {
+      "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
+      "name": "BNB from BSC on Meter",
+      "decimals": 18,
+      "symbol": "BNB",
+      "tags": []
+    },
+    {
+      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+      "name": "MOVR from MoonRiver on Meter",
+      "decimals": 18,
+      "symbol": "MOVR",
+      "tags": []
+    },
+    {
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+      "name": "WBTC from Ethereum on Meter",
+      "decimals": 8,
+      "symbol": "WBTC.eth",
+      "tags": []
+    }
+  ]
+}

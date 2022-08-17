@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "98f7863a-fde8-4c8e-8aaf-39470ed3f962",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/meter/assets/0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3/logo.png"
+  },
+  "name": "Meter Governance",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "MTRG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
