@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Moonriver is a sister network of Moonbeam, and provides an environment to test new code under real economic conditions."
+  },
+  "id": "3c7d5a7f-d6ba-4705-aed8-bbff73d78e92",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+    "website": "https://moonbeam.network/networks/moonriver/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0/logo.png"
+  },
+  "name": "MOVR from MoonRiver on Meter",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "MOVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

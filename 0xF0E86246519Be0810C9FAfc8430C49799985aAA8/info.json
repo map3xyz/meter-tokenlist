@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here."
+  },
+  "id": "c541ed7c-624b-40f7-b3e3-3ab2578708fb",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
+    "website": "https://binance.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0xF0E86246519Be0810C9FAfc8430C49799985aAA8/logo.png"
+  },
+  "name": "BNB from BSC on Meter",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

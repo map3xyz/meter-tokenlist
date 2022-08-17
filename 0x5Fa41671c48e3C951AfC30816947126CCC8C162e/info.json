@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent."
+  },
+  "id": "35079d0f-b5a2-4954-8484-589e475d388e",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0x5Fa41671c48e3C951AfC30816947126CCC8C162e/logo.png"
+  },
+  "name": "USDT from Ethereum on Meter",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "USDT.eth",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

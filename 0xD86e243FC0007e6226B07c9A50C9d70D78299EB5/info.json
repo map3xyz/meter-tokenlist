@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "USDC stablecoin originating on Ethereum, bridged as an ESDT token on Elrond. 1 USDC = 1 Wrapped USDC"
+  },
+  "id": "0b4b7f45-cdca-40fa-8a6f-12a43b40cbbd",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
+    "website": "https://www.centre.io/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0xD86e243FC0007e6226B07c9A50C9d70D78299EB5/logo.png"
+  },
+  "name": "USDC from Ethereum on Meter",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "USDC.eth",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
