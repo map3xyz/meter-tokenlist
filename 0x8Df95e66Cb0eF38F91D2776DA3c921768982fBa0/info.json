@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8225b4aa-a2c2-4061-8eaa-02970ec233be",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0/logo.png"
+  },
+  "name": "Volt",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "VOLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
