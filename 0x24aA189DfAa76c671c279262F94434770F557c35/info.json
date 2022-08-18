@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BUSD is a stablecoin issued by Paxos in partnership with Binance."
+  },
+  "id": "b2a86ba7-be90-4210-a354-665ffcb4b85d",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0x24aA189DfAa76c671c279262F94434770F557c35",
+    "website": "https://paxos.com/busd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0x24aA189DfAa76c671c279262F94434770F557c35/logo.png"
+  },
+  "name": "BUSD from BSC on Meter",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "BUSD.bsc",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
