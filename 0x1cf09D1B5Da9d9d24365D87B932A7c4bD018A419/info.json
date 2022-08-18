@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets."
+  },
+  "id": "c7e5acb4-0c8f-4249-9ee4-7119663fca36",
+  "links": {
+    "explorer": "https://scan.meter.io/address/0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
+    "website": "https://www.ampleforth.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/meter-tokenlist/master/0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419/logo.png"
+  },
+  "name": "AmpleForth",
+  "networkCode": "meter",
+  "spam": false,
+  "symbol": "AMPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
