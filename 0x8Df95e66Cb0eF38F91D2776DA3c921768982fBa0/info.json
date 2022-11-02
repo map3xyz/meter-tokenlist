@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "86a0b96d-1a60-41a0-9ce5-3c005f4a53cd",
+  "identifiers": {
+    "coinmarketcap": 19160
+  },
   "links": {
     "explorer": "https://scan.meter.io/address/0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0"
   },
